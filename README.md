@@ -1,3 +1,3 @@
-simple feedback form on react-2
+making a simple feedback form using React
 
 
